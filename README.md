@@ -7,7 +7,7 @@ Strong Cipherer and Decipherer for text, objects, streams and buffers
 ```bash
 git clone https://github.com/ChakSoft/sypher.git
 cd sypher
-yarn install --env=production
+yarn install --production
 ```
 
 ## Usage
