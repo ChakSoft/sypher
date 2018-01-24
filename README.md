@@ -73,4 +73,4 @@ decipher(source, 'aes-256-cbc', key, iv).then(({ content, stream }) => {
 
 # Licence
 
-This software is release under the GPL-3.0 license. Please see the [LICENSE](#LICENSE) file for further information.
+This software is release under the GPL-3.0 license. Please see the [LICENSE](blob/master/LICENSE) file for further information.
