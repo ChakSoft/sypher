@@ -1,6 +1,6 @@
 {
   "name": "sypher-util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Strong cipherer and decipherer",
   "main": "lib/index.js",
   "scripts": {
