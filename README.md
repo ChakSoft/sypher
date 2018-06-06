@@ -5,9 +5,7 @@ Strong Cipherer and Decipherer for text, objects, streams and buffers
 ## Installation
 
 ```bash
-git clone https://github.com/ChakSoft/sypher.git
-cd sypher
-yarn install --production
+yarn add sypher-util
 ```
 
 ## Usage
