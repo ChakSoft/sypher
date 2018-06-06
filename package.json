@@ -1,5 +1,5 @@
 {
-  "name": "sypher",
+  "name": "sypher-util",
   "version": "0.0.1",
   "description": "Strong cipherer and decipherer",
   "main": "lib/index.js",
